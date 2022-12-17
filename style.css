@@ -1,0 +1,38 @@
+.email{
+    margin-top: 30px;
+    margin-left: 15px;
+}
+.password{
+    margin-top: 20px;
+    margin-left: 15px;
+}
+#email1{
+    margin-top: 8px;
+    margin-left: 15px;
+    height: 28px;
+    width: 360px; 
+    border: 1px solid #000;
+    border-radius: 5px;   
+}
+#pwd{
+    margin-top: 8px;
+    margin-left: 15px;
+    height: 28px;
+    width: 360px; 
+    border: 1px solid #000;
+    border-radius: 5px;
+}
+#btn{
+    margin-top: 30px;
+    margin-left: 15px;
+    width: 128px;
+    height: 27px;
+    border: 1px solid #000;
+    border-radius: 5px;
+    background-color: rgb(15, 96, 248);
+    color: #fff;
+}
+#message{
+    margin-top: 8px;
+    margin-left: 15px;
+}
